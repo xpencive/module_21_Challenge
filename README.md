@@ -12,3 +12,5 @@ Creating KaseiCoinCrowdsale
 Creating KaseiCoin Deployer
 ![](Images/Creating%20KaseiCoinCrowdsale.png)
 
+### Deploying Contract Video
+Located in Images folder
